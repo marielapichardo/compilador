@@ -1,0 +1,18 @@
+  // Bienvenido al traductor empieza a programar! ///
+
+amonos { 
+
+# numerobucle 0
+
+repetir : numerobucle 0 , numerobucle 9 , numerobucle ++
+
+
+};
+
+
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.exe.config
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.application
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.exe
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.pdb
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Compilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\MeedCompy.Form1.resources
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.Properties.Resources.resources
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.application
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.exe
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.pdb
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\bin\Debug\CompiladorRaymond.exe.config
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\bin\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\bin\Debug\CompiladorRaymond.application
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\bin\Debug\CompiladorRaymond.exe
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\bin\Debug\CompiladorRaymond.pdb
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\Compilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\MeedCompy.Form1.resources
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\CompiladorRaymond.Properties.Resources.resources
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\CompiladorRaymond.application
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\CompiladorRaymond.exe
+C:\Users\Raymond Estrella\Desktop\Ivan Mendoza\Nueva carpeta\Compilador\obj\Debug\CompiladorRaymond.pdb
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\bin\Debug\CompiladorRaymond.exe.config
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\bin\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\bin\Debug\CompiladorRaymond.application
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\bin\Debug\CompiladorRaymond.exe
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\bin\Debug\CompiladorRaymond.pdb
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorUtesa.Form1.resources
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorRaymond.Properties.Resources.resources
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorRaymond.application
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorRaymond.exe
+C:\Users\Raymond Estrella\Desktop\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorRaymond.pdb
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\CompiladorUtesa.Form1.resources
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\bin\Debug\Compilador.exe.config
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\bin\Debug\Compilador.exe.manifest
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\bin\Debug\Compilador.application
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\bin\Debug\Compilador.exe
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\bin\Debug\Compilador.pdb
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.exe.manifest
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.application
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.exe
+C:\Users\Raymond Estrella\Documents\Nueva carpeta (3)\Nueva carpeta (2)\3er Parcial Compiladores\3er Parcial Compiladores\Codigo Fuente\obj\Debug\Compilador.pdb
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\bin\Debug\Compilador.exe.config
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\bin\Debug\Compilador.exe.manifest
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\bin\Debug\Compilador.application
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\bin\Debug\Compilador.exe
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\bin\Debug\Compilador.pdb
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\CompiladorUtesa.Form1.resources
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.exe.manifest
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.application
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.exe
+C:\Users\Raymond Estrella\Desktop\Analizador Semantico\Codigo Fuente\obj\Debug\Compilador.pdb
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\bin\Debug\Compilador.exe.config
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\bin\Debug\Compilador.exe.manifest
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\bin\Debug\Compilador.application
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\bin\Debug\Compilador.exe
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\bin\Debug\Compilador.pdb
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\CompiladorUtesa.Form1.resources
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.exe.manifest
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.application
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.exe
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Mini Compilador\Codigo Fuente\obj\Debug\Compilador.pdb
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\bin\Debug\Compilador.exe.config
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\bin\Debug\Compilador.exe.manifest
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\bin\Debug\Compilador.application
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\bin\Debug\Compilador.exe
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\bin\Debug\Compilador.pdb
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\CompiladorUtesa.Form1.resources
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.exe.manifest
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.application
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.exe
+C:\Users\USER\OneDrive\Documentos\Compiladores\Semana 7\Compilador\Codigo Fuente\obj\Debug\Compilador.pdb

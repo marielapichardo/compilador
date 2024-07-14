@@ -1,0 +1,45 @@
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\bin\Debug\MeedCompy.exe.config
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\bin\Debug\MeedCompy.exe
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\bin\Debug\MeedCompy.pdb
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\Traductor.csproj.AssemblyReference.cache
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\Traductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\MeedCompy.Form1.resources
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\MeedCompy.Properties.Resources.resources
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\Traductor.csproj.GenerateResource.cache
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\MeedCompy.exe
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\MeedCompy.pdb
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\bin\Debug\MeedCompy.exe.manifest
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\bin\Debug\MeedCompy.application
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\MeedCompy.exe.manifest
+C:\Users\EDWIN-PC\Downloads\traductor a lenguaje c\obj\Debug\MeedCompy.application
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\bin\Debug\MeedCompy.exe.config
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\bin\Debug\MeedCompy.exe.manifest
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\bin\Debug\MeedCompy.application
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\bin\Debug\MeedCompy.exe
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\bin\Debug\MeedCompy.pdb
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\Traductor.csproj.AssemblyReference.cache
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\Traductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\MeedCompy.Form1.resources
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\MeedCompy.Properties.Resources.resources
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\Traductor.csproj.GenerateResource.cache
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\MeedCompy.exe.manifest
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\MeedCompy.application
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\MeedCompy.exe
+C:\Users\Leonardo Estrella\Downloads\Compiladores-semana-7-main\Compiladores-semana-7-main\traductor a lenguaje c\obj\Debug\MeedCompy.pdb
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Traductor.csproj.AssemblyReference.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Traductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\MeedCompy.Form1.resources
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Traductor.csproj.GenerateResource.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.exe.config
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.application
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.exe
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\bin\Debug\CompiladorRaymond.pdb
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.Properties.Resources.resources
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.exe.manifest
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.application
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.exe
+C:\Users\Leonardo Estrella\Desktop\traductor a lenguaje c\obj\Debug\CompiladorRaymond.pdb

@@ -1,0 +1,28 @@
+  // Bienvenido a MeedCompy empieza a programar! ///
+
+
+amonos {
+
+
+# numero1 24
+
+si ( numero1 == 34 ) hacer { 
+
+
+} sino si ( numero1 == 4 ) hacer {     
+
+       // esto es un comentario ///
+
+}
+ 
+
+};
+
+
+
+
+
+
+
+
+

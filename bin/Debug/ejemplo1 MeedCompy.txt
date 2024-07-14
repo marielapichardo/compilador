@@ -1,0 +1,13 @@
+  // EJEMPLO 1 DE traducctor DECLARACIÓN DE # ///
+
+amonos {
+
+
+
+
+};
+
+
+
+
+

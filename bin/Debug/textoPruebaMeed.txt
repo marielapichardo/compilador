@@ -1,0 +1,30 @@
+
+inicio {
+
+# numero 0 # nn 3
+@ dd << gasdasd >>
+
+si ( numero == nn ) hacer {
+
+
+
+} se si ( numero == 77 ) hacer {
+
+repetir : nn 0 , nn 99 , nn ++ : 
+
+
+
+solo
+
+
+}
+
+
+}; 
+
+
+
+
+
+
+
